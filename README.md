@@ -12,5 +12,7 @@ The repository includes:
 * __Data files for background features, not updated regularly__, the data is from 2014.
 
 The scripts and styles were mainly written in 2013-2014, so it is possible that newer versions of GeoServer support some better options for achieving the same results. The last GeoServer version used with these styles was 2.11.1.
+
 CSC contributors: Tanja Kantola, Seppo Jänkälä, Kylli Ek.
+
 The scripts and styles hera are available here under CC4.0-BY license.
